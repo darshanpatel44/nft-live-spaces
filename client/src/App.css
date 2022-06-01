@@ -1,0 +1,19 @@
+.App {
+  font-family: "Space Grotesk", sans-serif;
+  color: #000000;
+  background-color: #fafafa;
+}
+.btn-light {
+  background-color: transparent !important;
+  color: black;
+  border: 1px solid grey !important;
+  font-weight: 400;
+}
+
+.btn-grey {
+  background-color: #18181a !important;
+}
+
+p {
+  font-size: 0.75rem;
+}
