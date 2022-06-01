@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ButtonRow from "../buttonRow/buttonRow";
 import CardContainer from "../cardContainer/cardContainer";
 
-const API_URL = "http://localhost:8080/api/data";
+const API_URL = "https://nft-live-spaces.herokuapp.com/api/data";
 
 const Body = (props) => {
   const [activebtnid, setactivebtnid] = useState(1);
